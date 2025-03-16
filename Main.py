@@ -1,4 +1,13 @@
-#Task manager
+"""
+
+
+ Task Manager App
+ 
+ 
+ """
+
+
+
 def task():
     tasks = []
     print("---- WELCOME TO THE TASK MANAGEMENT APP ----")
